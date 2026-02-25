@@ -11,6 +11,7 @@ fun main() {
 //    println("Hello, " + name + "!")
     SelfIntroduction().selfIntroduction()
     // test comment
+    // test comment 2
 
     for (i in 1..5) {
         //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
