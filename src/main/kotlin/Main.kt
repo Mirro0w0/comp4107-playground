@@ -10,6 +10,7 @@ fun main() {
     // to see how IntelliJ IDEA suggests fixing it.
 //    println("Hello, " + name + "!")
     SelfIntroduction().selfIntroduction()
+    // test comment
 
     for (i in 1..5) {
         //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
